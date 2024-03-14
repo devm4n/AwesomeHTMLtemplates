@@ -3,4 +3,4 @@
 
 Feel free to use these templates and contribute.
 
-[Open As HTML](mk-1407.github.io/AwesomeHTMLtemplates)
+[Open As HTML](mk-1407.github.io/AwesomeHTMLtemplates/BluletLogin)
